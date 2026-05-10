@@ -1,0 +1,51 @@
+{
+  "report_date": "2026-05-10",
+  "total_checks_24h": 3,
+  "incidents_by_priority": {
+    "P1": 2,
+    "P2": 0,
+    "P3": 0,
+    "P4": 0
+  },
+  "tickets": {
+    "created_24h": 1,
+    "resolved_24h": 0,
+    "currently_open": 1
+  },
+  "top_problematic_urls": [
+    {
+      "url": "https://myapp.com",
+      "count": 2
+    }
+  ],
+  "expiring_ssl": [],
+  "url_stats": [
+    {
+      "URL": "https://myapp.com",
+      "Uptime%": 0.0,
+      "Avg_Latency_ms": 0.0,
+      "P1_Count": 2,
+      "P2_Count": 0,
+      "P3_Count": 0,
+      "Total_Incidents": 2
+    },
+    {
+      "URL": "https://api.myapp.com/health",
+      "Uptime%": 0.0,
+      "Avg_Latency_ms": 0.0,
+      "P1_Count": 0,
+      "P2_Count": 0,
+      "P3_Count": 0,
+      "Total_Incidents": 0
+    },
+    {
+      "URL": "https://google.com",
+      "Uptime%": 100.0,
+      "Avg_Latency_ms": 2477.03,
+      "P1_Count": 0,
+      "P2_Count": 0,
+      "P3_Count": 0,
+      "Total_Incidents": 0
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+URL,Uptime%,Avg_Latency_ms,P1_Count,P2_Count,P3_Count,Total_Incidents
+https://myapp.com,0.0,0.0,2,0,0,2
+https://api.myapp.com/health,0.0,0.0,0,0,0,0
+https://google.com,100.0,2477.03,0,0,0,0

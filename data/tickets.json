@@ -1,0 +1,17 @@
+[
+  {
+    "ticket_id": "OPS-2026-001",
+    "title": "P1: My App is DOWN",
+    "priority": "P1",
+    "status": "OPEN",
+    "url": "https://myapp.com",
+    "reason": "Connection TIMEOUT",
+    "suggested_action": "Check server",
+    "created_at": "2026-05-10T06:09:46.929992+00:00",
+    "last_seen_at": "2026-05-10T06:09:46.945506+00:00",
+    "resolved_at": null,
+    "resolution_notes": null,
+    "escalated": true,
+    "occurrence_count": 2
+  }
+]
