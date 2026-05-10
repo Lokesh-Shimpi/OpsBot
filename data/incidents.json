@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://myapp.com",
+    "name": "My App",
+    "status_code": "TIMEOUT",
+    "latency_ms": 0.0,
+    "ssl_valid": false,
+    "ssl_days_left": null,
+    "dns_ok": true,
+    "timestamp": "2026-05-10T04:32:14.956882+00:00",
+    "is_up": false
+  },
+  {
+    "url": "https://api.myapp.com/health",
+    "name": "API Server",
+    "status_code": "TIMEOUT",
+    "latency_ms": 0.0,
+    "ssl_valid": false,
+    "ssl_days_left": null,
+    "dns_ok": true,
+    "timestamp": "2026-05-10T04:32:45.094826+00:00",
+    "is_up": false
+  },
+  {
+    "url": "https://google.com",
+    "name": "Google",
+    "status_code": 200,
+    "latency_ms": 2477.03,
+    "ssl_valid": true,
+    "ssl_days_left": 64,
+    "dns_ok": true,
+    "timestamp": "2026-05-10T04:32:47.844946+00:00",
+    "is_up": true
+  }
+]

@@ -1,0 +1,6 @@
+requests
+schedule
+rich
+click
+python-dotenv
+plyer

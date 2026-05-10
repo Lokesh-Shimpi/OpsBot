@@ -1,0 +1,5 @@
+[
+  {"name": "My App", "url": "https://myapp.com", "expected_status": 200},
+  {"name": "API Server", "url": "https://api.myapp.com/health", "expected_status": 200},
+  {"name": "Google", "url": "https://google.com", "expected_status": 200}
+]
